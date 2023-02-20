@@ -7,7 +7,7 @@
 
 <br>
 
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=oshengeenath&show_icons=true&theme=tokyonight)
+![oshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshengeenath&show_icons=true&theme=tokyonight)
 <br>
  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oshengeenath&theme=tokyonight"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oshengeenath&theme=tokyonight"  />
