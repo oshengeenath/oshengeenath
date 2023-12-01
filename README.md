@@ -3,7 +3,6 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1050&color=tokyonight&background=tokyonight&center=true&multiline=true&width=650&height=55&lines=OSHEN+GEENATH)](https://git.io/typing-svg)
 </div>
 
-🌱 I’m currently following a Bachelor's Degree in Artificial Intelligence and Data Science.
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oshengeenath&theme=tokyonight&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
