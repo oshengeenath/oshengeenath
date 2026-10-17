@@ -8,6 +8,7 @@ Software Engineer specialising in AI/ML and Backend Systems
   <a href="https://oshengeenath.github.io/oshenportfolio/">Portfolio</a> •
   <a href="https://linkedin.com/in/oshengeenath">LinkedIn</a> •
   <a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2025.1626641/full">Research</a>
+  <a href="https://au.seek.com/profiles/oshen-geenath-xjv2t53dgl">SEEK</a>
 </p>
 
 ---
