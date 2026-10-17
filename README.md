@@ -40,7 +40,7 @@ Document Processing → Semantic Chunking → BGE Embeddings → PostgreSQL/pgve
 **Tech:**  
 `Python` `RAG` `LLMs` `BGE` `PostgreSQL` `pgvector` `Ollama` `Docker`
 
-[Demo](https://drive.google.com/file/d/1FDkcnCbPbj4c1dpECu_tYtpWBHCyXANR/view?usp=drive_link)
+[Watch Demo Video](https://drive.google.com/file/d/1FDkcnCbPbj4c1dpECu_tYtpWBHCyXANR/view?usp=drive_link)
 
 ---
 
@@ -54,6 +54,8 @@ The system performs licence plate detection and OCR, supports mobile pre-booking
 **Tech:**  
 `Python` `YOLOv8` `PaddleOCR` `Node.js` `MongoDB` `Azure` `ONNX` `Arduino`
 
+[Watch Demo Video](https://drive.google.com/file/d/1x9s9-o_NTn6KcsPuBmCN2dtFd7VI0MPa/view?usp=drive_link)
+
 ---
 
 ### 👤 ReIDVision
@@ -65,6 +67,8 @@ Trained using a CCTV dataset containing **50 identities and 10,765 labelled inst
 
 **Tech:**  
 `Python` `PyTorch` `YOLOv8` `Siamese Networks` `OpenCV` `ONNX`
+
+[Watch Demo Video](https://drive.google.com/file/d/1inxfx-cCOd_gQ6UxR4pVqgAgcZK12WsY/view?usp=drive_link)
 
 ---
 
@@ -78,6 +82,8 @@ Built the complete pipeline from preprocessing and model training through to eva
 **Tech:**  
 `Python` `PyTorch` `Transformers` `Encoder-Decoder` `Streamlit`
 
+[Watch Demo Video](https://drive.google.com/file/d/1RxYmu8yQACH-cDV4ZnfrBSyQsjcXPLNY/view?usp=drive_link)
+
 ---
 
 ### 📊 TanVis
@@ -90,6 +96,8 @@ The dataset development process included quality control, duplicate detection, e
 **Tech:**  
 `Dataset Engineering` `Data Validation` `Computer Vision` `Cosine Similarity` `LVM Validation`
 
+[Watch Demo Video](https://drive.google.com/drive/folders/1Bh-cfY_Se4tG1zF7H6SHXzlIGb9avyRA?usp=drive_link)
+
 ---
 
 ### 🔥 Fire & Smoke Detection
@@ -99,6 +107,8 @@ Developed a real-time computer vision system using YOLOv7 to distinguish between
 
 **Tech:**  
 `Python` `PyTorch` `YOLOv7` `OpenCV` `Real-Time Computer Vision`
+
+[Watch Demo Video](https://drive.google.com/file/d/12Qh-Z_tLYMBbdtQzrI4jIP-YCKzWe3dJ/view?usp=drive_link)
 
 ---
 
