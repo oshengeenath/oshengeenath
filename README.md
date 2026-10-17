@@ -17,7 +17,7 @@ Software Engineer specialising in AI/ML and Backend Systems
 
 I'm a Software Engineer with experience across **AI/ML, backend development, computer vision, RAG/LLM systems, cloud deployment, and edge inference**.
 
-My work focuses on building practical systems from experimentation through to deployment — including machine learning pipelines, APIs, retrieval systems, real-time computer vision applications, and edge AI solutions.
+My work focuses on building practical systems from experimentation through to deployment - including machine learning pipelines, APIs, retrieval systems, real-time computer vision applications, and edge AI solutions.
 
 - 🎓 Master of Software Engineering - Yoobee Colleges
 - 🎓 BSc (Hons) in Artificial Intelligence and Data Science
@@ -39,6 +39,8 @@ Document Processing → Semantic Chunking → BGE Embeddings → PostgreSQL/pgve
 
 **Tech:**  
 `Python` `RAG` `LLMs` `BGE` `PostgreSQL` `pgvector` `Ollama` `Docker`
+
+[Demo](https://drive.google.com/file/d/1FDkcnCbPbj4c1dpECu_tYtpWBHCyXANR/view?usp=drive_link)
 
 ---
 
